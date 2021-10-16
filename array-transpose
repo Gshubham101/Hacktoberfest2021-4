@@ -1,0 +1,5 @@
+import numpy as np  
+a= np.array([[1, 2], [4, 5], [7, 8]])  ##enter your array here
+a  
+b=np.transpose(a, (1,0))  
+b   
